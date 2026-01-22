@@ -10,6 +10,8 @@ function RNN.rnn(input_size, rnn_size, n, dropout)
 
   end
 
+
+aaa
   local x, input_size_L
   local outputs = {}
   for L = 1,n do
